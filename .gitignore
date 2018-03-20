@@ -1,0 +1,21 @@
+#python specific
+*.pyc
+build/*
+dist/*
+*.egg-info/
+MANIFEST
+*.ini
+__pycache__
+
+.cache
+.coverage
+.eggs
+
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+*.log
+*.csv
